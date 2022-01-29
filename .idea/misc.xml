@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/hospitals_fragment.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/mosques_fragment.xml" value="0.20729166666666668" />
         <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/places_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/restaurants_fragment.xml" value="0.20729166666666668" />
       </map>
     </option>
   </component>
