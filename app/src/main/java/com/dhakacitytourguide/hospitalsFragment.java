@@ -7,6 +7,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -59,6 +60,10 @@ public class hospitalsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.hospitals_fragment, container, false);
+        View view = inflater.inflate(R.layout.new_list, container, false);
+
+        ListView listView = (ListView) view.findViewById(R.id.list_new);
+
+        return view;
     }
 }
