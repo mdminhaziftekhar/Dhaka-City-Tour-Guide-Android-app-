@@ -13,7 +13,7 @@ public class fragmentPagerAdapter extends FragmentPagerAdapter {
     private static final int PAGE_COUNT = 4;
     private Context context;
 
-    public fragmentPagerAdapter(@NonNull FragmentManager fm) {
+    public fragmentPagerAdapter(@NonNull FragmentManager fm, Context context) {
         super(fm);
         this.context = context;
     }
