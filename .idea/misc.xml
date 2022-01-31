@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/hospitals_fragment.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/list_item.xml" value="0.25" />
         <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/mosques_fragment.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/new_list.xml" value="0.10283687943262411" />
         <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/places_fragment.xml" value="0.1" />
         <entry key="..\:/Users/Minhaz/Documents/Android Projects/Dhaka City Tour Guide/app/src/main/res/layout/restaurants_fragment.xml" value="0.20729166666666668" />
       </map>
@@ -16,5 +18,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="Dhaka_City_Tour_Guide.app" />
+      </set>
+    </option>
   </component>
 </project>
