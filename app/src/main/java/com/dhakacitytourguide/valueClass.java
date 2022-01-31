@@ -7,8 +7,8 @@ public class valueClass {
     private final String mUrl;
 
     public valueClass(){
-        this.mTitle = "Default";
-        this.mDescription = "Default";
+        this.mTitle = "Default Title";
+        this.mDescription = "Default Description nigga! Nigga means kala.";
         this.mImageResourceId = R.mipmap.ic_launcher;
         this.mUrl = "default";
     }
