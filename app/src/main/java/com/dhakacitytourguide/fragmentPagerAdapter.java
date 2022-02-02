@@ -45,7 +45,7 @@ public class fragmentPagerAdapter extends FragmentPagerAdapter {
             case 0 :
                 return "Places";
             case 1 :
-                return "Restaurants";
+                return "Hotels";
             case 2 :
                 return "Mosques";
             case 3 :
